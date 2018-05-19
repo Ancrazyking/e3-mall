@@ -1,0 +1,11 @@
+com\ancrazyking\mapper\TbUserMapper.class
+com\ancrazyking\mapper\TbContentMapper.class
+com\ancrazyking\mapper\TbOrderItemMapper.class
+com\ancrazyking\mapper\TbOrderMapper.class
+com\ancrazyking\mapper\TbOrderShippingMapper.class
+com\ancrazyking\mapper\TbItemMapper.class
+com\ancrazyking\mapper\TbItemParamMapper.class
+com\ancrazyking\mapper\TbItemDescMapper.class
+com\ancrazyking\mapper\TbItemCatMapper.class
+com\ancrazyking\mapper\TbContentCategoryMapper.class
+com\ancrazyking\mapper\TbItemParamItemMapper.class
