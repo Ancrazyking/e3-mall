@@ -1,5 +1,6 @@
 package com.ancrazyking.service;
 
+import com.ancrazyking.common.pojo.EasyUIDataGridResult;
 import com.ancrazyking.pojo.TbItem;
 
 /**
@@ -10,4 +11,6 @@ public interface ItemService
 {
     TbItem getItemById(long itemId);
 
+    //分页显示
+    EasyUIDataGridResult getItemList(int page,int rows);
 }

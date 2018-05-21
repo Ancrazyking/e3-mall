@@ -1,7 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41a90ef0-6df1-4e09-8f38-bebf6c6492cf" name="Default" comment="" />
+    <list default="true" id="41a90ef0-6df1-4e09-8f38-bebf6c6492cf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/shop_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shop_manager_web_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-common/target/shop-common.jar" afterPath="$PROJECT_DIR$/shop-common/target/shop-common.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/pom.xml" afterPath="$PROJECT_DIR$/shop-manager/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-dao/shop-manager-dao.iml" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-dao/shop-manager-dao.iml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-dao/target/shop-manager-dao.jar" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-dao/target/shop-manager-dao.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-interface/src/main/java/com/ancrazyking/service/ItemService.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-interface/src/main/java/com/ancrazyking/service/ItemService.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/classes/com/ancrazyking/service/ItemService.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/classes/com/ancrazyking/service/ItemService.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/shop-manager-interface.jar" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/shop-manager-interface.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContent.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContent.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentCategory.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentCategory.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItem.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItem.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemCat.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemCat.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemDesc.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemDesc.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParam.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParam.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItem.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItem.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrder.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrder.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderItem.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderItem.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShipping.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShipping.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUser.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUser.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbContent.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbContent.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbContentCategory.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbContentCategory.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItem.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItem.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemCat.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemCat.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemDesc.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemDesc.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemParam.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemParam.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemParamItem.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbItemParamItem.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrder.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrder.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrderItem.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrderItem.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrderShipping.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbOrderShipping.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbUser.class" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/classes/com/ancrazyking/pojo/TbUser.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/shop-manager-pojo.jar" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-pojo/target/shop-manager-pojo.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/pom.xml" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/shop-manager-service.iml" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/shop-manager-service.iml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImap.java" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/classes/com/ancrazyking/service/impl/ItemServiceImap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-manager/shop-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/pom.xml" afterPath="$PROJECT_DIR$/shop-manager-web/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/shop-manager-web.iml" afterPath="$PROJECT_DIR$/shop-manager-web/shop-manager-web.iml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java" afterPath="$PROJECT_DIR$/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/shop-manager-web/src/main/resources/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/mybatis/sqlMapConfig.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/mybatis/sqlMapConfig.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/properties/db.properties" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/properties/db.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/spring/applicationContext-dao.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/spring/applicationContext-service.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-transaction.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/spring/applicationContext-transaction.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/springMvc.xml" afterPath="$PROJECT_DIR$/shop-manager-web/src/main/resources/spring/springMvc.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/com/ancrazyking/controller/ItemController.class" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/com/ancrazyking/controller/ItemController.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/log4j.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/mybatis/sqlMapConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/properties/db.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/spring/applicationContext-dao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/spring/applicationContext-service.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/spring/applicationContext-transaction.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/classes/spring/springMvc.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/classes/spring/springMvc.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/shop-manager-web/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/shop-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/shop-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web.war" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web.war" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/aspectjweaver-1.8.7.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/aspectjweaver-1.8.7.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/c3p0-0.9.1.1.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/c3p0-0.9.1.1.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-codec-1.6.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-codec-1.6.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-io-1.3.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-lang3-3.3.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-lang3-3.3.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-logging-1.1.3.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-net-3.3.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/commons-net-3.3.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/druid-1.0.9.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/druid-1.0.9.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/httpclient-4.3.5.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/httpclient-4.3.5.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/httpcore-4.3.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/httpcore-4.3.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-annotations-2.4.0.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-annotations-2.4.0.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-core-2.4.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-core-2.4.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-databind-2.4.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jackson-databind-2.4.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/joda-time-2.5.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/joda-time-2.5.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jsqlparser-1.0.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jsqlparser-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jstl-1.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/jstl-1.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/log4j-1.2.16.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/log4j-1.2.16.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-3.2.8.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-3.2.8.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mysql-connector-java-5.1.32.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/mysql-connector-java-5.1.32.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/pagehelper-5.1.2-beta.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/pagehelper-5.1.2-beta.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/quartz-2.2.2.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/quartz-2.2.2.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-common-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/shop-manager-service-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/slf4j-api-1.7.7.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/shop-manager-web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/shop-manager-web/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/conf/logging.properties" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/conf/logging.properties" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/conf/tomcat-users.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/conf/tomcat-users.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/conf/web.xml" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/conf/web.xml" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/logs/access_log.2018-05-18" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/logs/access_log.2018-05-18" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/logs/access_log.2018-05-19" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/logs/access_log.2018-05-19" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/shop-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterPath="$PROJECT_DIR$/shop-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" />
+      <change beforePath="$PROJECT_DIR$/shop-parent/pom.xml" afterPath="$PROJECT_DIR$/shop-parent/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/shop-parent/target/" />
     <ignored path="$PROJECT_DIR$/shop-common/target/" />
     <ignored path="$PROJECT_DIR$/shop-manager/target/" />
@@ -10,6 +137,7 @@
     <ignored path="$PROJECT_DIR$/shop-manager/shop-manager-interface/target/" />
     <ignored path="$PROJECT_DIR$/shop-manager/shop-manager-service/target/" />
     <ignored path="$PROJECT_DIR$/shop-manager/shop-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/pagehelper/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +146,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +155,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -54,10 +174,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-parent/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-manager/pom.xml" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/pom.xml" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/pom.xml" />
         <option value="$PROJECT_DIR$/shop-common/pom.xml" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-interface/pom.xml" />
@@ -68,10 +185,38 @@
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-transaction.xml" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-manager-interface/src/main/java/com/ancrazyking/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" />
-        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImap.java" />
         <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImap.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentCategory.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemCat.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemDesc.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParam.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItem.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrder.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderItem.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShipping.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUser.java" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/resources/spring/springMvc.xml" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/java/com/ancrazyking/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/item-list.jsp" />
+        <option value="$PROJECT_DIR$/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/mybatis/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/test/java/PageHelperTest.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/ancrazyking/common/pojo/EasyUIDataGridResult.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-interface/src/main/java/com/ancrazyking/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/shop-manager-web/pom.xml" />
       </list>
     </option>
   </component>
@@ -99,33 +244,60 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shop-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="pagehelper" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shop-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shop-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="shop-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="shop-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-manager-dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-manager-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-manager-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-manager-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-manager-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1822" />
-    <option name="y" value="21" />
+    <option name="x" value="205" />
+    <option name="y" value="80" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -143,12 +315,13 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pagehelper" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
@@ -160,25 +333,21 @@
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -186,7 +355,6 @@
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -195,7 +363,6 @@
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -205,34 +372,104 @@
             </path>
             <path>
               <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-manager" type="462c0819:PsiDirectoryNode" />
               <item name="shop-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="PageController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty:3.7.0.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-3.7.0.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="NioClientBoss" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="G:/FrameWorkCoding/MyBatisGenerator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-manager-web/src/main/webapp" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15024391" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_151" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Project in action\shop\shop-manager\shop-manager-web\src\main\resources" />
-      <recent name="G:\Project in action\shop\shop-manager\shop-manager-dao\src\main\java\com\ancrazyking\dao" />
-      <recent name="G:\Project in action\shop\shop-manager\shop-manager-pojo\src\main\java\com\ancrazyking\pojo" />
+      <recent name="H:\Project in action\shop\pagehelper\src\main\java\com\github\pagehelper" />
+      <recent name="H:\Project in action\shop\" />
+      <recent name="H:\Project in action\shop\shop-manager-web\src\main\webapp\WEB-INF\view" />
+      <recent name="H:\Project in action\shop\shop-manager-web\src\main\webapp" />
+      <recent name="H:\Project in action\shop\shop-manager\shop-manager-service\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Project in action\shop\shop-manager\shop-manager-service\src\main\webapp\WEB-INF" />
+      <recent name="H:\Project in action\shop\" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +484,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.shop-web">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -267,6 +504,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="PageHelperTest.testPageHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="shop-manager-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageHelperTest" />
+      <option name="METHOD_NAME" value="testPageHelper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -288,7 +545,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="mb" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="shop-manager" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -307,6 +564,29 @@
             </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$/shop-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="shop-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shop-manager-web" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
@@ -351,6 +631,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.shop-manager" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.shop-web" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PageHelperTest.testPageHelper" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PageHelperTest.testPageHelper" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -368,15 +658,23 @@
       <workItem from="1526632998368" duration="2773000" />
       <workItem from="1526692496547" duration="1102000" />
       <workItem from="1526703446038" duration="4690000" />
+      <workItem from="1526732404115" duration="595000" />
+      <workItem from="1526815965644" duration="5213000" />
+      <workItem from="1526867652323" duration="15181000" />
+      <workItem from="1526904730046" duration="608000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PageHelperTest_testPageHelper - 2018.05.21 at 16h 40m 22s.xml">
+      <configuration name="PageHelperTest.testPageHelper" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8565000" />
+    <option name="totallyTimeSpent" value="30162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1822" y="21" width="1378" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="205" y="80" width="1378" height="735" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -385,14 +683,14 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29727685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20547946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34493193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26132405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2936267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30273142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -417,375 +715,367 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/pom.xml">
+    <entry file="jar://D:/maven/repository/org/springframework/spring-context/4.2.4.RELEASE/spring-context-4.2.4.RELEASE.jar!/org/springframework/stereotype/Controller.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/properties/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/spring/springMvc.xml" />
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="41" column="2" lean-forward="true" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="55" column="8" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        <state relative-caret-position="450">
+          <caret line="81" column="21" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="81" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        <state relative-caret-position="-120">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemDesc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShippingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/content-category.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/css/e3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/resources/spring/springMvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/item-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagehelper/src/main/java/com/github/pagehelper/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="110" column="17" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="660">
+          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="424">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrder.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/mybatis/sqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentCategory.java">
+    <entry file="jar://D:/maven/repository/com/github/pagehelper/pagehelper/5.1.2-beta/pagehelper-5.1.2-beta.jar!/com/github/pagehelper/PageHelper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbOrderShipping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemParamItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbUser.java">
+    <entry file="file://$PROJECT_DIR$/pagehelper/src/main/java/com/github/pagehelper/PageInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="185">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbContentExample.java">
+    <entry file="file://$PROJECT_DIR$/pagehelper/src/main/java/com/github/pagehelper/PageHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="177">
+          <caret line="75" column="23" lean-forward="false" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-pojo/src/main/java/com/ancrazyking/pojo/TbItemDescExample.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/test/java/PageHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="353">
+          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemDescMapper.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="341">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbOrderShippingMapper.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/resources/spring/applicationContext-service.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemCatMapper.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/java/com/ancrazyking/controller/PageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemParamMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbOrderMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/annotations/Param.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemParamItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbOrderItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/properties/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbContentCategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="60" lean-forward="true" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-          <folding>
-            <marker date="1526693651685" expanded="true" signature="3829:3943" ph="select from tb_content_category" />
-            <marker date="1526693651685" expanded="true" signature="4027:4095" ph="delete from tb_content_category... " />
-            <marker date="1526693651685" expanded="true" signature="4207:4238" ph="delete from tb_content_category... " />
-            <marker date="1526693651685" expanded="true" signature="4427:4794" ph="insert into tb_content_category... " />
-            <marker date="1526693651685" expanded="true" signature="6376:6416" ph="select count... tb_content_category" />
-            <marker date="1526693651685" expanded="true" signature="7659:8093" ph="update tb_content_category... " />
-            <marker date="1526693651685" expanded="true" signature="8313:9058" ph="update tb_content_category... " />
-            <marker date="1526693651685" expanded="true" signature="9166:9547" ph="update tb_content_category... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbContentCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/src/main/java/com/ancrazyking/mapper/TbItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/springMvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/mybatis/sqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-transaction.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-interface/src/main/java/com/ancrazyking/service/ItemService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/index-item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml">
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        <state relative-caret-position="540">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-service/src/main/java/com/ancrazyking/service/impl/ItemServiceImap.java">
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/ancrazyking/common/pojo/EasyUIDataGridResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar!/org/jboss/netty/channel/socket/nio/NioClientBoss.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#510#511#0" expanded="false" />
-            <element signature="e#572#573#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/src/main/webapp/WEB-INF/view/item-list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="81" lean-forward="false" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-dao/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        <state relative-caret-position="345">
+          <caret line="35" column="29" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-manager/shop-manager-web/src/main/java/com/ancrazyking/controller/ItemController.java">
+    <entry file="file://$PROJECT_DIR$/shop-manager-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="115" column="37" lean-forward="false" selection-start-line="115" selection-start-column="37" selection-end-line="115" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagehelper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -845,7 +1135,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>shop-manager-web</last-edited>
+          <last-edited>shop-manager-interface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

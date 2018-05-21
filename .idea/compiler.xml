@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="pagehelper" />
         <module name="shop-common" />
         <module name="shop-manager-dao" />
         <module name="shop-manager-interface" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="pagehelper" target="1.7" />
       <module name="shop-common" target="1.8" />
       <module name="shop-manager" target="1.8" />
       <module name="shop-manager-dao" target="1.8" />
