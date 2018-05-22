@@ -30,5 +30,7 @@
     <dubbo:application name="shop-manager-web"></dubbo:application>
     <dubbo:registry protocol="zookeeper" address="192.168.74.135:2181"></dubbo:registry>
     <dubbo:reference interface="com.ancrazyking.service.ItemService" id="itemService"></dubbo:reference>
+    <dubbo:reference interface="com.ancrazyking.service.ItemCatService" id="itemCatService"></dubbo:reference>
+
 
 </beans>

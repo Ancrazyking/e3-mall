@@ -19,6 +19,7 @@ Date.prototype.format = function(format){
     return format; 
 };
 
+//E3对象
 var E3 = {
 	// 编辑器参数
 	kingEditorParams : {
@@ -64,7 +65,7 @@ var E3 = {
     },
     // 初始化图片上传组件
     initPicUpload : function(data){
-    	$(".picFileUpload").each(function(i,e){
+    	$(".picFileUpload").each(function(i,e){//循环遍历
     		var _ele = $(e);
     		_ele.siblings("div.pics").remove();
     		_ele.after('\
@@ -104,7 +105,7 @@ var E3 = {
     
     // 初始化选择类目组件
     initItemCat : function(data){
-    	$(".selectItemCat").each(function(i,e){
+    	$(".selectItemCat").each(function(i,e){//循环遍历 e,原生dom对象
     		var _ele = $(e);
     		if(data && data.cid){
     			_ele.after("<span style='margin-left:10px;'>"+data.cid+"</span>");
@@ -113,16 +114,16 @@ var E3 = {
     		}
     		_ele.unbind('click').click(function(){
     			$("<div>").css({padding:"5px"}).html("<ul>")
-    			.window({
+    			.window({//打开easyUI的窗口
     				width:'500',
     			    height:"450",
-    			    modal:true,
+    			    modal:true,//模态 灰色
     			    closed:true,
     			    iconCls:'icon-save',
     			    title:'选择类目',
     			    onOpen : function(){
     			    	var _win = this;
-    			    	$("ul",_win).tree({
+    			    	$("ul",_win).tree({//树形
     			    		url:'/item/cat/list',
     			    		animate:true,
     			    		onClick : function(node){

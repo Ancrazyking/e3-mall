@@ -8,6 +8,7 @@
 	        <tr>
 	            <td>商品类目:</td>
 	            <td>
+					<!--动态绑定,通过id或class绑定-->
 	            	<a href="javascript:void(0)" class="easyui-linkbutton selectItemCat">选择类目</a>
 	            	<input type="hidden" name="cid" style="width: 280px;"></input>
 	            </td>
