@@ -1,2 +1,5 @@
+com\ancrazyking\common\util\JsonUtils.class
 com\ancrazyking\common\pojo\EasyUITreeNode.class
+com\ancrazyking\common\util\E3Result.class
+com\ancrazyking\common\util\IDUtils.class
 com\ancrazyking\common\pojo\EasyUIDataGridResult.class

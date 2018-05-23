@@ -1,6 +1,7 @@
 package com.ancrazyking.controller;
 
 import com.ancrazyking.common.pojo.EasyUIDataGridResult;
+import com.ancrazyking.common.util.E3Result;
 import com.ancrazyking.pojo.TbItem;
 import com.ancrazyking.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,14 +15,14 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @date 2018/5/19 14:55
  **/
 @Controller
-@RequestMapping
+@RequestMapping("/item")
 public class ItemController
 {
 
     @Autowired
     private ItemService itemService;
 
-    @RequestMapping("/item/{itemId}")
+    @RequestMapping("/{itemId}")
     @ResponseBody
     public TbItem getItemById(@PathVariable Long itemId){
         TbItem tbItem=itemService.getItemById(itemId);
@@ -29,11 +30,21 @@ public class ItemController
     }
 
 
-    @RequestMapping("/item/list")
+    @RequestMapping("/list")
     @ResponseBody
     public EasyUIDataGridResult getItemList(Integer page,Integer rows){
         //调用服务查询商品列表
         EasyUIDataGridResult result=itemService.getItemList(page,rows);
         return result;
     }
+
+
+    @RequestMapping("/save")
+    @ResponseBody
+    public E3Result saveItem(TbItem item,String desc){
+        E3Result result=itemService.addItem(item,desc);
+        return result;
+    }
+
+
 }

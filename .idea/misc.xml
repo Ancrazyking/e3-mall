@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/shop-common/pom.xml" />
         <option value="$PROJECT_DIR$/shop-manager/pom.xml" />
         <option value="$PROJECT_DIR$/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-manager-web/pom.xml" />
       </list>
     </option>
   </component>
